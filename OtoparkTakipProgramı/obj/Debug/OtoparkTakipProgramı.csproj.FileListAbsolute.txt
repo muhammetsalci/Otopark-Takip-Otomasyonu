@@ -1,0 +1,48 @@
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe.config
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form1.resources
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form2.resources
+C:\Users\CASPER\Desktop\C# Ödev\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form3.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe.config
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form1.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form2.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form3.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\OtoparkTakipProgramı\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe.config
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form1.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form2.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form3.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.pdb
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe.config
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.exe
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\bin\Debug\OtoparkTakipProgramı.pdb
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csprojAssemblyReference.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form1.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form2.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Form3.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.Properties.Resources.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.GenerateResource.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.csproj.CoreCompileInputs.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.exe
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\6. Soru (OtoparkTakipProgramı)\OtoparkTakipProgramı\obj\Debug\OtoparkTakipProgramı.pdb
